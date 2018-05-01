@@ -21,5 +21,5 @@ The Flyweight pattern's effectiveness depends heavily on how and where it's used
 **Related Patterns**
 
 - [Composite](https://github.com/andreidana/CompositePattern)
-- State
-- Strategy
+- [State](https://github.com/andreidana/StatePattern)
+- [Strategy](https://github.com/andreidana/StrategyExample)
